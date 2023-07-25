@@ -1,6 +1,6 @@
 class Stack:
     """class for stack data type"""
-    def __init__(self, limit= 10):
+    def __init__(self):
         self.stack = []
         
     def push(self, data):
